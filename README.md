@@ -1,1 +1,1 @@
-<h1>esta es mi vercion del juego mario party</h1>
+<h1>esta es mi version del juego mario party</h1>
